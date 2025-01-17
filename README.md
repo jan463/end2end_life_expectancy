@@ -27,3 +27,5 @@ The analysis explores:
 🫄🏼 Higher GDP countries tend to have higher average BMI.  
 👩🏼‍🎓 Longer schooling duration often correlates with higher GDP.
 
+### Presentation
+This project is summarized in a short [presentation](https://www.canva.com/design/DAGcSpjzTqw/I02Qj7bK7eOOmkMiOuuGOQ/edit?utm_content=DAGcSpjzTqw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
